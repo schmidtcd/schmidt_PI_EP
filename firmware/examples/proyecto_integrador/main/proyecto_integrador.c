@@ -1,4 +1,4 @@
-/*! @mainpage Sistema de monitoreo y control de clima en invernadero
+/*! @mainpage Sistema de Monitoreo y Control de Clima en Invernadero
  *
  * @section genDesc General Description
  *
@@ -17,11 +17,11 @@
  * |:--------------:|:--------------|   
  * | 	VCC	    	|   	3V3 	|
  * | 	GND	        | 	    GND	    |
- * | 	IN8	        |  	  GPIO_20 	|   //Conexión para el control de la electroválvula
- * | 	IN2	        |  	  GPIO_21 	|   //Conexión para el control del ventilador
+ * | 	IN8	        |  	  GPIO_20 	|   
+ * | 	IN2	        |  	  GPIO_21 	|   
  * 
  * 
- * |    Sensor HW-390  |   ESP32   	|   //Sensor de humedad de suelo capacitivo
+ * |    Sensor HW-390  |   ESP32   	|   
  * |:--------------:|:--------------|
  * | 	VCC	    	|   	3V3 	|
  * | 	GND	        | 	    GND	    |
